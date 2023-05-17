@@ -30,7 +30,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 
 ---------
 ## Available Rosters
-| Roster Version | File Download | Notes | Tutorial |
+| Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2024 Offseason | [Ros]() |  |  |
 
