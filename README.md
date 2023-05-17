@@ -1,6 +1,5 @@
 # ESPN NFL 2K24 - Football Resurrected
 
-![2K240](https://github.com/lostsoul63b/NFL-2K24/assets/69597675/060bc5cf-f9d2-4c0b-8786-2e340c3aa24a)
 
 **The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
