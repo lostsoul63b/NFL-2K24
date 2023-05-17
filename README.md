@@ -29,6 +29,12 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | R0 | AVX2 |  |  |  |  |
 
 ---------
+## Available Rosters
+| Roster Version | File Download | Notes | Tutorial |
+| :------------- | :-------------: | :------------- | :------------- |
+| NFL 2024 Offseason | [Ros]() |  |  |
+
+---------
 ## JSGME MODS
 | Platform | Package Info | Download | Tutorial |
 | :------------- | :------------- | :------------- | :------------- |
