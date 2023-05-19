@@ -32,7 +32,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ## Available Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
-| NFL 2024 Offseason | [Ros]() |  |  |
+| NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) |  |  |
 
 ---------
 ## JSGME MODS
