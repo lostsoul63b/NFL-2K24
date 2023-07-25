@@ -28,12 +28,15 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
 | ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1 | AVX2 |  |  |  |  |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1 | SSE4 |  |  |  |  |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1 | XBOX |  |  |  |  |
 
 ---------
 ## Available Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) |  |  |
+| NFL 2024 Rookies | [Ros]() |  |  |
 
 ---------
 ## JSGME MODS
@@ -42,8 +45,27 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | | | |
 
 ---------
-## Future Releases
-* **NFL 2K24 R0 Coming Soon**
+## Release Changelog
+**Version 1**
+ * Rebranded Menus for NFL 2K24
+ * Updated Controller + Broadcasts
+ * Updated Selection screens
+ * Updated Setup Installer
+ * Updated Endzones for some stadiums
+ * Updated Franchise team logos
+ * Updated Practice Field
+ * Updated Ref + Line judges
+ * Misc texture updates*
+ * New Niners stadium
+ * New fictional Titans helmets
+ * New Blue Lions helmets
+ * Cleaned up all GME packages
+ * Added Jets + Giants center field logos
+ * NFL 2024 Offseason trade roster
+ * NFL 2024 Rookie roster (by bossthugga1)
+ * Includes SuperBowl LVI Mod
+ * Includes Classic Mod
+ * Includes Utilities (editors, draft class tool, mymc)
 
 ---------
 ## MOD Team Credits
