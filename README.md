@@ -36,7 +36,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
 | NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) |  |  |
-| NFL 2024 Rookies | [Ros]() |  |  |
+| NFL 2024 Rookies | [Ros](https://www.mediafire.com/file_premium/g13wbf1sz971qmp/NFL2024_Rookies.zip/file) |  |  |
 
 ---------
 ## JSGME MODS
