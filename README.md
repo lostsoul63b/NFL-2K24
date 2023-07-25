@@ -45,7 +45,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 | ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | | | |
 
 ---------
-## Release Changelog
+## Release CHANGELOG
 **Version 1**
  * Rebranded Menus for NFL 2K24
  * Updated Controller + Broadcasts
