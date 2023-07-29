@@ -2,6 +2,19 @@
 
 ![604daa11209de512-6dd2bea85fbf6108-00006653](https://github.com/lostsoul63b/NFL-2K24/assets/69597675/e69b40d1-9138-491e-a3b6-414919435a0d)
 
+### NFL 2K24, the newest Mod is Available Now for download
+
+This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This years release brings a new level of authenticity that we know players will appreciate and enjoy. 
+
+### Enormous Uniform Selections
+For the first time, we are including ALL uniform GME packages that can be loaded using the GME tool. This gives every player everything they need when they get started.
+
+### UI Improvements
+We overhauled menus and other branding to make this release ready for the 2024 NFL season ahead. As you play you will notice texture improvements.
+
+### Updated Rosters
+LostsouL ran the Madden 24 Launch Ratings and ported over all existing roster datasets. Big thank you to everyone who has contributed to rosters and portraits! 
+
 **The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
 ![RedArrow2](https://user-images.githubusercontent.com/69597675/125669440-bcf4c873-527c-4524-9426-9488c71fbbde.png)
