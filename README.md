@@ -55,16 +55,20 @@ Future releases will include the PS controller buttons by default. The Xbox cont
  * Updated Franchise team logos
  * Updated Practice Field
  * Updated Ref + Line judges
+ * Updated 49ers current sleeves
+ * Updated Stadium selections
  * Misc texture updates*
  * New Niners stadium
- * New fictional Titans helmets
+ * New Titans helmets
  * New Blue Lions helmets
+ * New White Broncos helmets
  * Cleaned up all GME packages
  * Added Jets + Giants center field logos
+ * Includes NFL 2024 "Madden 24" Launch Ratings
  * NFL 2024 Offseason trade roster
  * NFL 2024 Rookie roster (by bossthugga1)
- * Includes SuperBowl LVI Mod
- * Includes Classic Mod
+ * Includes SuperBowl LVI Mod + Ros
+ * Includes Classic Mod + Ros
  * Includes Utilities (editors, draft class tool, mymc)
 
 ---------
