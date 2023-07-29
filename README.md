@@ -2,7 +2,7 @@
 
 ![604daa11209de512-6dd2bea85fbf6108-00006653](https://github.com/lostsoul63b/NFL-2K24/assets/69597675/e69b40d1-9138-491e-a3b6-414919435a0d)
 
-### NFL 2K24, the newest Mod is Available Now for download
+### The newest Mod is Available Now for download
 
 This Mod has been in development since LostsouL started the project for NFL2K5 in March of 2021. We continue to build off of what the team and community has put together. This years release brings a new level of authenticity that we know players will appreciate and enjoy. 
 
