@@ -40,9 +40,9 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1 | AVX2 |  |  | [AVX2 Installer]() |  |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1 | SSE4 |  |  | [SSE4 Installer]() |  |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1 | XBOX |  |  | [Console Pkg]() |  |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1 | AVX2 |  |  | [AVX2 Installer](https://www.mediafire.com/file_premium/v2jrklbi789pifq/NFL2K24_V1_Setup.zip/file) | [Tutorial](https://youtu.be/S1Icpc3HS04) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1 | SSE4 |  |  | [SSE4 Installer](https://www.mediafire.com/file_premium/esoxtojq19d4jpm/NFL2K24_V1_Setup_SSE4.zip/file) | [Tutorial](https://youtu.be/S1Icpc3HS04) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V1 | XBOX |  |  | [Console Pkg](https://www.mediafire.com/file_premium/h8b4ltys3h8sga0/2K24_Console.zip/file) |  |
 
 ---------
 ## Available Rosters
