@@ -1,5 +1,5 @@
 
-## Version 1 - Release Date 7/29/2023
+### Version 1 - Release Date 7/29/2023
  * Rebranded Menus for NFL 2K24
  * Updated Controller + Broadcasts
  * Updated Selection screens
