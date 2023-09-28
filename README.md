@@ -13,7 +13,7 @@ For the first time, we are including ALL uniform GME packages that can be loaded
 We overhauled menus and other branding to make this release ready for the 2024 NFL season ahead. As you play you will notice texture improvements.
 
 ### Updated Rosters
-LostsouL ran the Madden 24 Launch Ratings and ported over all existing roster datasets. Big thank you to everyone who has contributed to rosters and portraits! 
+Included in V2 are the Week 1 Roster and Franchise Madden 24 Ratings. Big thank you to everyone who has contributed to rosters and portraits! 
 
 **The 2K5 Mod Team is providing PC Football to the community by sharing the experience we all want! Enjoy ESPN NFL 2K5 in a completely new way with updated uniforms, stadiums, logos, and more!**
 
