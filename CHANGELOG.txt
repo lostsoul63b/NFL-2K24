@@ -1,3 +1,31 @@
+Version 2
+ - Moved Tattoos to "Player_Tattoos" GME
+ - Updated Coach Portraits + Gear
+ - Updated Falcons 2023 Stadium Logo
+ - Updated NFL logo in several Stadiums
+ - Updated Endzones
+ - Fixed Stadium_Jets Field Logo
+ - Fixed Stadium_Giants Field Logo
+ - Fixed Stadium Mod branding
+ - Add Browns Jim Brown Jersey Patch
+ - Add Vikings field logo
+ - Add Bears Stadium community update
+ - Add Fictional Endzones
+ - Add Vikings field logo
+ - Add New gloves for all 32 teams
+ - Add Patriots Home pants to silver
+ - Add Broncos Blue Jersey White Pants
+ - Add Browns Retro 1946 White Helmet 2023
+ - Add Cardinals All Black Color Rush  + Black Helmet
+ - Add Cardinals All Red Color Rush  + Black Helmet
+ - Add Colts All Blue Color Rush 2023
+ - Add Jets All White Color Rush 2023
+ - Add Lions All Grey Color Rush 2023
+ - Add Patriots Blue Jersey Blue Pants Home
+ - Add Seahawks Throwback 2023
+ - New Week 1 Roster + Franchise
+ - New Draft Class and Free Agents
+ - New 2023 Schedule to Franchise
 
 Version 1 (7/29/2023)
  - Rebranded Menus for NFL 2K24
