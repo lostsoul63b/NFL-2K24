@@ -88,6 +88,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
  * New Week 1 Roster + Franchise
  * New Draft Class and Free Agents
  * New 2023 Schedule to Franchise
+
 **Version 1**
  * Rebranded Menus for NFL 2K24
  * Updated Controller + Broadcasts
