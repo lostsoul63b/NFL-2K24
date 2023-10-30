@@ -40,9 +40,9 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ## Available Releases
 | Platform | Mod Version | Emulator Version | Release Date  | Release Notes | Download | Tutorial |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |  :-------------: |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V2 | AVX2 | Sept 28, 2023 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K24/blob/main/CHANGELOG.txt) | [AVX2 Installer](https://www.mediafire.com/file_premium/bvofatobatg0o4h/NFL2K24_V2_AVX2.zip/file) | [Tutorial](https://youtu.be/pgw-zSuFaOs) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V2 | SSE4 | Sept 28, 2023 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K24/blob/main/CHANGELOG.txt) | [SSE4 Installer](https://www.mediafire.com/file_premium/lglfryxehslnw4j/NFL2K24_V2_SSE4.zip/file) | [Tutorial](https://youtu.be/pgw-zSuFaOs) |
-| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | V2 | XBOX | Sept 28, 2023 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K24/blob/main/CHANGELOG.txt) | [Console Pkg](https://www.mediafire.com/file_premium/y3pkf31tmj3bw6o/NFL_2K24_-_Version_2.zip/file) | [Guide](https://www.nfl2kmod.com/xbox) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2 | AVX2 | Sept 28, 2023 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K24/blob/main/CHANGELOG.txt) | [AVX2 Installer](https://www.mediafire.com/file_premium/bvofatobatg0o4h/NFL2K24_V2_AVX2.zip/file) | [Tutorial](https://youtu.be/pgw-zSuFaOs) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2 | SSE4 | Sept 28, 2023 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K24/blob/main/CHANGELOG.txt) | [SSE4 Installer](https://www.mediafire.com/file_premium/lglfryxehslnw4j/NFL2K24_V2_SSE4.zip/file) | [Tutorial](https://youtu.be/pgw-zSuFaOs) |
+| ![PCSX2](https://user-images.githubusercontent.com/69597675/124647169-9baf0800-de63-11eb-974c-a7a4b2aecc1d.png) | v2 | XBOX | Sept 28, 2023 | [CHANGELOG](https://github.com/lostsoul63b/NFL-2K24/blob/main/CHANGELOG.txt) | [Console Pkg](https://www.mediafire.com/file_premium/y3pkf31tmj3bw6o/NFL_2K24_-_Version_2.zip/file) | [Guide](https://www.nfl2kmod.com/xbox) |
 
 ---------
 ## Available Rosters
