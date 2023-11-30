@@ -58,7 +58,9 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ## JSGME MODS
 | Platform | Package Info | Download | Tutorial |
 | :------------- | :------------- | :------------- | :------------- |
-| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | | | |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | SEC College Championship | [Download](https://www.mediafire.com/file/ufmwyo3r98xtlom/NCAA23_SEC_2023.zip/file) | [Click-to-Watch](https://youtu.be/XvpsocyO85g) |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Super Bowl LVII | [Download](https://www.mediafire.com/file/hswojwjp1i2wjpp/SuperBowl_LVII_Mod.zip/file) | [Click-to-Watch](https://youtu.be/nis0hLhXyZ4) |
+| ![Snag_61c24e](https://user-images.githubusercontent.com/69597675/150687521-fa2844f5-8343-443d-b9cc-24aebc94182a.png) | Classic Mod | [Download](https://www.mediafire.com/file/zgtekqadccsn3he/ClassicMod.zip/file) | [Click-to-Watch](https://youtu.be/0Cev4PQMGU0) |
 
 ---------
 ## Release CHANGELOG
