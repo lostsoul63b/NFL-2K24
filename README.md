@@ -48,7 +48,7 @@ Future releases will include the PS controller buttons by default. The Xbox cont
 ## Available Rosters
 | Version | Download | Notes | Tutorial |
 | :------------- | :-------------: | :------------- | :------------- |
-| NFL 2024 Week 9 | [Ros](https://www.mediafire.com/file_premium/879kivg5xx436xt/NFL_2024_Week_9_Ratings.zip/file) | Week 9 Rosters |  |
+| NFL 2024 Week 9 | [Ros](https://www.mediafire.com/file_premium/879kivg5xx436xt/NFL_2024_Week_9_Ratings.zip/file) |  |  |
 | NFL 2024 Week 1 | [Ros+Fra](https://www.mediafire.com/file/7xbarjl7s910lvu/NFL+2024+Week+1+Ratings.zip/file) |  |  |
 | NFL 2024 Preseason | [Ros](https://www.mediafire.com/file_premium/cyioqzhn8nztq0b/NFL_2024_Preseason.zip/file) |  |  |
 | NFL 2024 Offseason | [Ros](https://www.mediafire.com/file_premium/cakdsnmadgps7dr/NFL2024_OffSeasonRos.zip/file) |  |  |
